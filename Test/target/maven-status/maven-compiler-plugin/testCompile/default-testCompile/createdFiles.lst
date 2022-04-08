@@ -1,0 +1,5 @@
+StepDefinitions\AmazonLogin.class
+StepDefinitions\TestRunner.class
+AppElements\Product_Search_Elements.class
+StepDefinitions\Amazon_Search.class
+AppBase\Hooks.class
